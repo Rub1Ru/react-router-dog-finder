@@ -1,0 +1,10 @@
+.NavBar{
+  display: flex;
+  justify-content: flex-start;
+  padding: 1rem;
+  background-color: #59616e;
+}
+
+.NavBar-active {
+  color: white;
+}
